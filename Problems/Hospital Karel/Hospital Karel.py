@@ -25,3 +25,5 @@ def turn_right():
     turn_left()
 if _name_ == '_main_':
     main()
+
+    # Add your 2nd approch here
